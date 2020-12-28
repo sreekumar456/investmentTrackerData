@@ -12,6 +12,8 @@ public class AssetOverviewController {
 
     @RequestMapping(method =  RequestMethod.GET, path = "/data/getAllAssets")
     public ResponseEntity<String> testClass(){
+
         return ResponseEntity.ok("Success");
+        
     }
 }
