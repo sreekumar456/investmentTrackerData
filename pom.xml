@@ -8,7 +8,7 @@
 		<version>2.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sree</groupId>
+	<groupId>com.it</groupId>
 	<artifactId>investmentTracker-data-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>investmentTracker</name>
